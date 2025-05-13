@@ -20,7 +20,7 @@ Evaluation of the Model with R², Train score and R², Test Score of 0.353 and 0
 Evaluation of the Model with R², Train score and R², Test Score of 0.348 and 0.347 respectively.
 
 # Limitations
-- Weak linear relationships : Although stock level emerged as the strongest predictor of sales qty, its correlation of o.59 suggests only moderate relationship
+- Weak linear relationships : Although stock level emerged as the strongest predictor of sales qty, its correlation of 0.59 suggests only moderate relationship
 - Excessive categorical features : While categorical variables are valuable, one-hot encoding significantly expands the dataset without improving predictive accuracy
 - Limited Influence of External Factors : Variables such as weather and seasonality could impact sales, but the dataset reflects consistent and stable sales patterns, suggesting these features are not strong predictors.
 
