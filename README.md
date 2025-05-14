@@ -30,6 +30,6 @@ Evaluation of the Model with R², Train score and R², Test Score of 0.348 and 0
 - Monitor stock level for products with unusual high demand and collaborate with relevant stakeholders to gain insights for accurate sales forecasting
   
 # Future Explorations
-- Incorporate non-linear models like XGBoost / Polynomial Regression should garner better modeling results by capturing complex relationships within the data
-- Predict sales qty based on historical trends, seasonal patterns and cyclical behaviors (if any)
+- The model used was the most fundamental / widely used (LR model). Since performance was not good on linear models, further techniques like non-linear models (XGBoost / Polynomial Regression) could be explored by capturing complex relationships within the data. 
+- Time series forecasting model could be explored to predict sales qty based on historical trends, seasonal patterns and cyclical behaviors (if any).
   
